@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Senabadhy Sesan
+#  Hi, I'm Senabadhy Sesan
 
 ### 🚀 QA Automation Engineer | SDET | Full-Stack Developer
 
