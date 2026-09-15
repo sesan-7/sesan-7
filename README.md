@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Senabadhy Sesan 👋
 
-<!--
-**sesan-7/sesan-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Automation Engineer | SDET
 
-Here are some ideas to get you started:
+Computer Science graduate focused on software quality, test automation,
+API testing, and reliable CI/CD workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### QA Automation
+
+- Playwright
+- JavaScript
+- Postman
+- Newman
+- REST API Testing
+- Jenkins
+- SQL
+
+### Featured Projects
+
+🔹 [ShopSphere — E-Commerce QA Automation Framework](https://github.com/sesan-7/shopsphere-qa-automation)
+
+🔹 [Blogzz — QA Automation & API Testing Framework](https://github.com/sesan-7/Blogzz-API-Test-Automation)
+
+### Current Focus
+
+QA Automation → CI/CD → Cloud & DevOps → DevSecOps
